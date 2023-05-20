@@ -54,6 +54,7 @@ main {
 }
 
 .container-right {
+    position: relative;
     width: 50%;
 }
 

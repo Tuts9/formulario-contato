@@ -72,6 +72,8 @@ main {
 }
 
 .container-right textarea {
+    width: 100%;
+    resize: none;
     margin-top: 10px;
     padding: 5px;
     border: 1px solid darkgray;

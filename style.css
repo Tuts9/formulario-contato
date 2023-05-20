@@ -8,7 +8,7 @@
 }
 
 body {
-    height: 100%;
+    height: 100vh;
     background: url(./bacg2.jpg) no-repeat;
     background-size: cover;
     background-position: center;

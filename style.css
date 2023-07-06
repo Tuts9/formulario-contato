@@ -87,6 +87,14 @@ main {
     background: #F0B95B;
 }
 
+.container-right button:hover {
+    position: relative;
+    bottom: 3px;
+    width: 101px;
+    height: 41px;
+    background: #d8a752;
+}
+
 @media (max-width: 900px) {
     .container {
         width: 100%;
